@@ -2,25 +2,9 @@
 
 An end-to-end Azure Data Engineering project built using **Azure Data Factory, ADLS Gen2, Azure Databricks, PySpark, Delta Lake, Unity Catalog, Databricks SQL Warehouse, and Power BI**.
 
-## 🏗️ Project Architecture
+## 🏗️ Project Architecture diagram
 
-```text
-API / Source Data
-       ↓
-Azure Data Factory
-       ↓
-ADLS Gen2
-       ↓
-Bronze → Silver → Gold
-       ↓
-Azure Databricks + PySpark
-       ↓
-Delta Lake
-       ↓
-Databricks SQL Warehouse
-       ↓
-Power BI
-```
+<img width="1580" height="996" alt="ChatGPT Image Sep 26, 2026, 03_36_02 PM" src="https://github.com/user-attachments/assets/d5ae4464-c11b-48a4-97c2-4b320f042510" />
 
 ## 📌 Project Overview
 
