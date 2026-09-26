@@ -134,14 +134,10 @@ The data was **not physically copied into the SQL Warehouse**. The Gold data rem
 azure-data-engineering-project/
 │
 ├── README.md
-│
-├── notebooks/
-│   ├── Silver.py
-│   └── Gold.py
-│
-└── data/
-    ├── silver/
-    └── gold/
+│── Silver.py
+│── Gold.py
+|__ trip_zone_lookup.csv
+|__ trip_type.csv
 ```
 
 ## 🧠 Key Skills Demonstrated
